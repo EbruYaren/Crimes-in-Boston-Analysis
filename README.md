@@ -13,5 +13,3 @@ The data is provided by Analyze Boston. The most up-to-date version can be found
 What types of crimes are most common?
 Where are different types of crimes most likely to occur?
 Does the frequency of crimes change over the day? Week? Year?
-
-![Crimes in Boston](https://storage.googleapis.com/kaggle-datasets-images/49781/90388/0e523321547c24d989c910879491fce7/data-original.JPG?t=2018-09-04-17-52-47)
