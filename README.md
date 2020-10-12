@@ -4,6 +4,7 @@ Crime incident reports are provided by Boston Police Department (BPD) to documen
 
 ### Content
 Records begin in June 14, 2015 and continue to September 3, 2018.
+Dataset is available at [Crimes in Boston](https://www.kaggle.com/AnalyzeBoston/crimes-in-boston)
 
 ### Acknowledgements
 The data is provided by Analyze Boston. The most up-to-date version can be found here.
